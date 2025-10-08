@@ -56,3 +56,16 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 Special thanks to educators and students who provided feedback to make this tool more engaging and effective.
+
+## Screenshots
+
+Below are some screenshots of the LCM Tower application in action:
+
+1. ![Screenshot 1](ss/1.png)
+2. ![Screenshot 2](ss/2.png)
+3. ![Screenshot 3](ss/3.png)
+4. ![Screenshot 4](ss/4.png)
+5. ![Screenshot 5](ss/5.png)
+6. ![Screenshot 6](ss/6.png)
+7. ![Screenshot 7](ss/7.png)
+8. ![Screenshot 8](ss/8.png)
