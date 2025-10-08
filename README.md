@@ -1,11 +1,11 @@
 # LCM Tower - Interactive Learning Tool
 
 ## Overview
-LCM Tower is an interactive web-based tool designed to help students learn and visualize the concept of Least Common Multiple (LCM). The application provides engaging activities such as building towers, coloring mosaics, and solving puzzles to discover the LCM of two numbers.
+LCM Tower is an interactive web-based tool designed to help students learn and visualize the concept of Least Common Multiple (LCM). The application provides engaging activities such as building towers, filling pie charts, and solving puzzles to discover the LCM of two numbers.
 
 ## Features
 - **Interactive Towers**: Build towers by entering multiples of two numbers and find their LCM interactively.
-- **Color-the-Mosaic Activity**: Visualize multiples of two numbers and their LCM through a coloring activity.
+- **Pie Chart Activity**: Fill pie charts by entering multiples for two numbers. Each correct multiple fills a slice, and the LCM is revealed when both pies are full.
 - **Number Tiles Puzzle**: Drag and drop tiles to match multiples and find the LCM.
 - **Dynamic Number Generation**: Generate random numbers or manually input numbers to explore their LCM.
 - **Hard Mode**: Challenge yourself with double-digit numbers and apply the GCD to simplify the problem.
@@ -14,9 +14,10 @@ LCM Tower is an interactive web-based tool designed to help students learn and v
 ## How It Works
 1. **Enter Numbers**: Input two numbers or generate random ones.
 2. **Build Towers**: Fill the towers by entering multiples of the numbers.
-3. **Find the LCM**: Complete the towers to reveal the LCM.
-4. **Apply GCD**: In hard mode, divide the numbers by their GCD to simplify the problem.
-5. **Show Answer**: Use the formula `LCM(a, b) = (a × b) ÷ GCD(a, b)` to verify the result.
+3. **Fill Pie Charts**: Enter multiples into each pie. Each correct multiple fills a slice. When both pies are full, the LCM pops!
+4. **Find the LCM**: Complete the towers or pies to reveal the LCM.
+5. **Apply GCD**: In hard mode, divide the numbers by their GCD to simplify the problem.
+6. **Show Answer**: Use the formula `LCM(a, b) = (a × b) ÷ GCD(a, b)` to verify the result.
 
 ## Installation
 1. Clone the repository:
@@ -35,7 +36,7 @@ LCM Tower is an interactive web-based tool designed to help students learn and v
 
 ## File Structure
 - `index.php`: Main entry point for the LCM Tower activity.
-- `activity.php`: Contains the Color-the-Mosaic activity.
+- `activity.php`: Contains the Pie Chart Activity.
 - `tiles.php`: Implements the Number Tiles Puzzle.
 - `style.css`: Stylesheet for the application.
 - `script.js`: JavaScript for animations and interactivity.
