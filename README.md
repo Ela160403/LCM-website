@@ -48,9 +48,6 @@ LCM Tower is an interactive web-based tool designed to help students learn and v
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Author
 - **Ela160403**
 
