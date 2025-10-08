@@ -66,4 +66,3 @@ Below are some screenshots of the LCM Tower application in action:
 5. ![Screenshot 5](ss/5.png)
 6. ![Screenshot 6](ss/6.png)
 7. ![Screenshot 7](ss/7.png)
-8. ![Screenshot 8](ss/8.png)
