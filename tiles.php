@@ -41,22 +41,7 @@ sort($pool);
       <div class="page-hero">
         <div>
           <h1 style="margin:0">Number Tiles Puzzle</h1>
-            <a href="index.php" 
-     style="display: inline-flex; align-items: center; padding: 4px 8px; 
-            background-color: #e5e7eb; color: #374151; font-weight: 600;
-            font-size: 0.85rem; border-radius: 6px; text-decoration: none;
-            transition: background-color 0.2s, transform 0.2s;"
-     onmouseover="this.style.backgroundColor='#d1d5db'; this.style.transform='translateY(-1px)'"
-     onmouseout="this.style.backgroundColor='#e5e7eb'; this.style.transform='none'">
-     
-     <svg xmlns="http://www.w3.org/2000/svg"
-          style="width: 14px; height: 24px; margin-right: 4px;" 
-          fill="none" viewBox="0 0 24 24" stroke="currentColor">
-       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-             d="M9 14l-4-4m0 0l4-4m-4 4h11a4 4 0 010 8h-1" />
-     </svg>
-     Back
-  </a>
+      
 
           <p class="sub-title">Drag tiles into lanes for each number. When both lanes show same top number, you found a common multiple.</p>
         </div>
